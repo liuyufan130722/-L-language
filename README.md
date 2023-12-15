@@ -5,3 +5,4 @@
 #### 先导库：from mian import *
 #### 输出：outtype()
 #### 输入：intype()
+#### 随机整数
