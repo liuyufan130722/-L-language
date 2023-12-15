@@ -1,8 +1,8 @@
 from random import *
-def outtype(str):
+def output(str):  #输出
     print(str)
-def intype(str):
+def input(str):   #输入
     input(str) 
-def RI(upRadius,downRadius):
+def RI(upRadius,downRadius):   #随机整数
     result = randint(upRadius,downRadius)
     return result
